@@ -1,4 +1,3 @@
-select * from walmartsalesdata
 -- How many unique cities are repersented in the data?
 select distinct city from walmartsalesdata
 
